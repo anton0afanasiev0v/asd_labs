@@ -6,3 +6,6 @@
 [Работа с GIT](GIT.md)
 
 [Правила оформления репозитория](Repository_design_rules.md)
+
+[Рекомендации по коду](recommendation.md)
+

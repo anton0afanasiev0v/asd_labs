@@ -25,7 +25,7 @@ given-when-then - https://pythontest.com/strategy/given-when-then-2/
 global PATH = '../txtf/input.txt'
 
 
-def should_linear_search__test():
+def test_should_linear_search_():
   # given
   data = read_from_file(PATH)
    
@@ -48,13 +48,13 @@ if __name__ == 'main':
 
 ## Для unit test
 
-should_"Что тест должен проверить"_test
+test_should_"Что тест должен проверить"
 ```
 import unittest
 
 class TestStringMethods(unittest.TestCase):
 
-    def should_linear_search__test(self):
+    def test_should_linear_search(self):
         # given
 
         data = read_from_file(PATH)

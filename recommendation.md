@@ -47,6 +47,7 @@ if __name__ == 'main':
 
 
 ## Для unit test
+given-when-then - https://pythontest.com/strategy/given-when-then-2/
 
 test_should_"Что тест должен проверить"
 ```

@@ -17,6 +17,7 @@ if __name__ == 'main':
 ## Для тестов без unit
 
 given-when-then - https://pythontest.com/strategy/given-when-then-2/
+test_should_"Что тест должен проверить"
 
 ```
 

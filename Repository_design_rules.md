@@ -17,22 +17,24 @@
 📁 algorithms-and-data-structures/
  ┣ 📁 lab1/
  ┃ ┣  📁 task1 /
- ┃ ┃ ┣ 📁 src/
- ┃ ┃ ┣ 📁 tests/
- ┃ ┃ ┗ 📜 README.md
+ ┃ ┃ ┣ 📁 src/              ## Файлы с исходными кодами
+ ┃ ┃ ┣ 📁 tests/            ## Файлы тестов этого кода
+ ┃ ┃ ┗ 📜 README.md 
  ┃ ┣  📁 task2 /
- ┃ ┃ ┣ 📁 txtf/
- ┃ ┃ ┣ 📁 src/
- ┃ ┃ ┣ 📁 tests/
- ┃ ┃ ┗📜 README.md
- ┃ ┗📄 отчет.pdf
+ ┃ ┃ ┣ 📁 txtf/             ## Файлы с текстами, не являющимися кодом
+ ┃ ┃ ┣ 📁 src/              ## Файлы с исходными кодами
+ ┃ ┃ ┣ 📁 tests/            ## Файлы тестов этого кода
+ ┃ ┃ ┗ 📜 README.md          ## Микро - документация в упрощённом виде (ЧТО ЛЕЖИТ В ЭТОЙ ПАПКЕ?)
+ ┃ ┃ 📄 отчет.pdf
+ ┃ ┗ 📜 README.md
  ┣ 📁 lab2/
  ┃ ┣  📁 task1 to n /
  ┃ ┃ ┣ 📁 txtf/
  ┃ ┃ ┣ 📁 src/
  ┃ ┃ ┣ 📁 tests/
- ┃ ┃ ┗📜 README.md
- ┃ ┗📄 отчет.pdf
+ ┃ ┃ ┗ 📜 README.md
+ ┃ ┃ 📜 README.md
+ ┃ ┗ 📄 отчет.pdf
  ┃ 📜 .gitignore
  ┗ 📜 README.md
 ```

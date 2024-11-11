@@ -31,7 +31,7 @@ def test_should_linear_search_():
   data = read_from_file(PATH)
    
   # when
-  response = linear_search(..)
+  response = linear_search(data)
 
   # then
   if response == response:
@@ -58,11 +58,14 @@ class TestStringMethods(unittest.TestCase):
 
     def test_should_linear_search(self):
         # given
-
+        expected_result= "Что-то"
         data = read_from_file(PATH)
+
         # when
+        result = linear_search(data)
+
         # then
-        self.assertEqual('foo'.upper(), 'FOO')
+        self.assertEqual(result, expected_result)
 
 if __name__ == '__main__':
     unittest.main()

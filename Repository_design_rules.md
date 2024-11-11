@@ -6,7 +6,9 @@
 ### Примеры Оформления README.md
 
 [Главный - README.md ](README/lab.md)
+
 [Уровень лабы  - README.md ](README/lab.md)
+
 [Уровень задания  - README.md ](README/task.md)
 
 ### 1. **Общая структура репозитория**

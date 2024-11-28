@@ -5,7 +5,7 @@
 
 ### Примеры Оформления README.md
 
-[Главный - README.md ](README/lab.md)
+[Главный - README.md ](README/main.md)
 
 [Уровень лабы  - README.md ](README/lab.md)
 

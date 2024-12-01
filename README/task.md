@@ -40,10 +40,3 @@ or
    ```bash
    python src/main.py
    ```
-
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/
-```
